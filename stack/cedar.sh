@@ -48,7 +48,6 @@ echo -e "\nRemaining suspicious security bits:"
 echo -e "\nInstalled versions:"
 (
   git --version
-  java -version
   ruby -v
   gem -v
   python -V
