@@ -22,9 +22,12 @@ libpq-dev
 libpq5
 libreadline6-dev
 libssl-dev
+libssl0.9.8
 libxml2-dev
 libxslt-dev
 netcat-openbsd
+openjdk-6-jdk
+openjdk-6-jre-headless
 openssh-client
 openssh-server
 pigz
